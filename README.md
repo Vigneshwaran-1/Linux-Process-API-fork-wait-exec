@@ -52,9 +52,7 @@ int main() {
 ##OUTPUT
 
 
-
-![Alt text](../../image/exp-1.png)
-
+![Alt text](image-3.png)
 
 
 
@@ -113,10 +111,10 @@ int main() {
 ##OUTPUT
 
 
-![Alt text](../../image/exp-2.png)
 
 
 
+![Alt text](image.png)
 
 
 # RESULT:
